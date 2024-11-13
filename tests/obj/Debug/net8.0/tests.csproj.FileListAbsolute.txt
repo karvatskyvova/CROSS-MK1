@@ -1,0 +1,7 @@
+D:\CROSS-MK1\tests\obj\Debug\net8.0\tests.csproj.AssemblyReference.cache
+D:\CROSS-MK1\tests\obj\Debug\net8.0\tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\CROSS-MK1\tests\obj\Debug\net8.0\tests.AssemblyInfoInputs.cache
+D:\CROSS-MK1\tests\obj\Debug\net8.0\tests.AssemblyInfo.cs
+D:\CROSS-MK1\tests\obj\Debug\net8.0\tests.csproj.CoreCompileInputs.cache
+D:\CROSS-MK1\tests\bin\Debug\net8.0\CoverletSourceRootsMapping_tests
+D:\CROSS-MK1\tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_tests
